@@ -1,38 +1,36 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Lawyer+%2B+Web3+Builder;Smart+Contracts+%E2%80%A2+LegalTech+%E2%80%A2+Stellar;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+AI+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Lawyer+%2B+Web3+Builder;Smart+Contracts+%E2%80%A2+LegalTech+%E2%80%A2+Stellar;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+AI+Products" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Lucas Vital 👋
 
-**Lawyer + Web3 Builder** focused on smart contracts, legaltech, blockchain payment rails and AI-powered products.
+**Lawyer + Web3 Builder** focused on building real products with **smart contracts, legaltech, blockchain payments and AI-powered applications**.
 
-I build practical Web3 projects connecting **law, product thinking and blockchain technology**.
+I connect **law, product thinking and blockchain technology** to create practical Web3 solutions for real-world problems.
 
-## 🇧🇷 Sobre mim
-
-Sou advogado em transição para desenvolvimento Web3, construindo projetos reais com smart contracts, legaltech, pagamentos blockchain, inteligência artificial e produtos digitais.
-
-Meu diferencial é unir **Direito + Produto + Blockchain** para criar soluções aplicáveis a problemas reais.
+---
 
 ## 🚀 Focus
 
-- Smart contracts for agreements, escrow and verifiable records
-- LegalTech products for digital contracts and milestone-based payments
-- Blockchain payment rails using Stellar and Web3 infrastructure
-- Blockchain intelligence tools for wallet analysis and compliance workflows
-- AI-assisted MVPs for faster product validation
+- Smart contracts for agreements, escrow and verifiable records  
+- LegalTech products for digital contracts and milestone-based payments  
+- Blockchain payment rails using Stellar, Ethereum and Web3 infrastructure  
+- AI-assisted MVPs for faster product validation and real market testing  
 
-## 🛠 Stack
+---
 
-**Frontend:** TypeScript, React, Next.js  
-**Blockchain:** Solidity, Ethereum, Stellar  
-**Tools:** Node.js, GitHub, Vercel  
-**Interests:** LegalTech, Smart Contracts, Blockchain Payments, AI, Web3 Products
+## 🛠 Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,solidity,git,github,vercel" />
+</p>
 
-## 📫 Contact
-
-- GitHub: [github.com/LucasVital08](https://github.com/LucasVital08)
-- LinkedIn: linkedin.com/in/lucas-monteiro-210a19174
-- Email: lucasmonteiroadvocacia@gmail.com
-- Telefone: +55 (81) 9 9112-9681
+```ts
+const lucasVital = {
+  role: "Lawyer + Web3 Builder",
+  focus: ["Smart Contracts", "LegalTech", "Blockchain Payments", "AI Products"],
+  frontend: ["TypeScript", "React", "Next.js"],
+  blockchain: ["Solidity", "Ethereum", "Stellar", "Web3"],
+  tools: ["Node.js", "GitHub", "Vercel"],
+  currentlyBuilding: ["ContractEase", "StellarGlobalRails", "SocialPay"],
+};

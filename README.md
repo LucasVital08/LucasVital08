@@ -8,6 +8,12 @@
 
 I build practical Web3 projects connecting **law, product thinking and blockchain technology**.
 
+## 🇧🇷 Sobre mim
+
+Sou advogado em transição para desenvolvimento Web3, construindo projetos reais com smart contracts, legaltech, pagamentos blockchain, inteligência artificial e produtos digitais.
+
+Meu diferencial é unir **Direito + Produto + Blockchain** para criar soluções aplicáveis a problemas reais.
+
 ## 🚀 Focus
 
 - Smart contracts for agreements, escrow and verifiable records
@@ -23,33 +29,10 @@ I build practical Web3 projects connecting **law, product thinking and blockchai
 **Tools:** Node.js, GitHub, Vercel  
 **Interests:** LegalTech, Smart Contracts, Blockchain Payments, AI, Web3 Products
 
-## 📌 Featured Projects
-
-### ContractEase
-Web3 legaltech platform for milestone-based agreements using escrow, smart contracts and AI-assisted dispute support.
-
-### StellarGlobalRails
-Modular infrastructure for global payments, invoices, digital contracts and verifiable records on Stellar.
-
-### SocialPay
-Web3 social payments app for sending, requesting and tracking digital payments.
-
-### BlockchainIntelligenceGroup / ChainWatch
-Blockchain intelligence tools for wallet analysis, transaction monitoring and compliance workflows.
-
-### RealFootbolweb3
-Web3 football game prototype exploring NFT-inspired ownership, marketplace mechanics and blockchain progression.
-
-### ObraReport
-AI-assisted construction reporting platform for generating structured daily work reports.
-
-## 🇧🇷 Sobre mim
-
-Sou advogado em transição para desenvolvimento Web3, construindo projetos reais com smart contracts, legaltech, pagamentos blockchain, inteligência artificial e produtos digitais.
-
-Meu diferencial é unir **Direito + Produto + Blockchain** para criar soluções aplicáveis a problemas reais.
 
 ## 📫 Contact
 
 - GitHub: [github.com/LucasVital08](https://github.com/LucasVital08)
 - LinkedIn: add your LinkedIn link here
+- Email: lucasmonteiroadvocacia@gmail.com
+- Telefone: +55 (81) 9 9112-9681

@@ -28,9 +28,26 @@ I connect **law, product thinking and blockchain technology** to create practica
 ```ts
 const lucasVital = {
   role: "Lawyer + Web3 Builder",
-  focus: ["Smart Contracts", "LegalTech", "Blockchain Payments", "AI Products"],
-  frontend: ["TypeScript", "React", "Next.js"],
-  blockchain: ["Solidity", "Ethereum", "Stellar", "Web3"],
-  tools: ["Node.js", "GitHub", "Vercel"],
-  currentlyBuilding: ["ContractEase", "StellarGlobalRails", "SocialPay"],
+
+  focus: ["Smart Contracts", "LegalTech", "Escrow", "Blockchain Payments", "AI Products"],
+
+  blockchain: {
+    ethereum: ["Solidity", "EVM", "Smart Contracts"],
+    stellar: ["Rust", "Soroban", "Stellar SDK", "Payment Rails"],
+    bitcoin: ["Bitcoin Script", "sCrypt"],
+    web3: ["Wallets", "Digital Signatures", "On-chain Records"],
+  },
+
+  productStack: ["TypeScript", "React", "Next.js", "Node.js", "Vercel", "Supabase"],
+
+  portfolio: [
+    "ContractEase",
+    "StellarGlobalRails",
+    "SocialPay",
+    "Oddoreven",
+    "RealFootbolweb3",
+    "BlockchainIntelligenceGroup",
+  ],
+
+  lookingFor: ["Web3 Developer", "Frontend Web3", "Junior Solidity", "LegalTech Product"],
 };

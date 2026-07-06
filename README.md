@@ -4,26 +4,21 @@
 
 # Hi, I'm Lucas Vital 👋
 
-**Lawyer + Web3 Builder** focused on building real products with **smart contracts, legaltech, blockchain payments and AI-powered applications**.
-
-I connect **law, product thinking and blockchain technology** to create practical Web3 solutions for real-world problems.
-
----
-
-## 🚀 Focus
-
-- Smart contracts for agreements, escrow and verifiable records  
-- LegalTech products for digital contracts and milestone-based payments  
-- Blockchain payment rails using Stellar, Ethereum and Web3 infrastructure  
-- AI-assisted MVPs for faster product validation and real market testing  
+| 🇺🇸 English | 🇧🇷 Português |
+|---|---|
+| **Lawyer + Web3 Builder** focused on building real products with smart contracts, legaltech, blockchain payments and AI-powered applications. | **Advogado + Web3 Builder** focado em construir produtos reais com smart contracts, legaltech, pagamentos blockchain e aplicações com IA. |
+| I connect **law, product thinking and blockchain technology** to create practical Web3 solutions for real-world problems. | Eu conecto **Direito, visão de produto e tecnologia blockchain** para criar soluções Web3 aplicáveis a problemas reais. |
 
 ---
 
-## 🛠 Stack & Tools
+## 🚀 Focus / Foco
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,solidity,git,github,vercel" />
-</p>
+| 🇺🇸 Focus | 🇧🇷 Foco |
+|---|---|
+| Smart contracts for agreements, escrow and verifiable records | Smart contracts para contratos, escrow e registros verificáveis |
+| LegalTech products for digital contracts and milestone-based payments | Produtos LegalTech para contratos digitais e pagamentos por marcos |
+| Blockchain payment rails using Stellar, Ethereum and Web3 infrastructure | Infraestrutura de pagamentos blockchain usando Stellar, Ethereum e Web3 |
+| AI-assisted MVPs for faster product validation and real market testing | MVPs com apoio de IA para validação rápida de produtos e testes reais de mercado |
 
 ```ts
 const lucasVital = {

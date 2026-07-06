@@ -16,13 +16,14 @@ Eu conecto **Direito, visão de produto e tecnologia blockchain** para criar sol
 
 ---
 
+---
+
 ## 🚀 Focus
 
-**EN**  
-Smart contracts, escrow systems, digital agreements, blockchain payment rails, legaltech products and AI-assisted MVPs.
-
-**PT-BR**  
-Smart contracts, sistemas de escrow, contratos digitais, infraestrutura de pagamentos blockchain, legaltechs e MVPs com apoio de IA.
+- Smart contracts for agreements, escrow and verifiable records
+- LegalTech products for digital contracts and milestone-based payments
+- Blockchain payment rails using Stellar, Ethereum and Web3 infrastructure
+- AI-assisted MVPs for faster product validation and real market testing
 
 ---
 
@@ -73,30 +74,6 @@ const lucasVital = {
   lookingFor: ["Web3 Developer", "Frontend Web3", "Junior Solidity", "LegalTech Product"],
 };
 ```
-
----
-
-## 📌 Featured Projects
-
-**ContractEase**  
-Web3 legaltech platform for milestone-based agreements using escrow smart contracts, digital contract workflows and AI-assisted dispute support.
-
-**StellarGlobalRails**  
-Modular Web3 infrastructure for global payments, digital contracts, invoices and verifiable workflows on Stellar.
-
-**SocialPay**  
-Web3 social payments app for sending, requesting and tracking digital payments through a simple user experience.
-
-**Oddoreven**  
-Web3 game prototype exploring wallet connection, blockchain interactions and decentralized gameplay.
-
-**RealFootbolweb3**  
-Web3 football game prototype with NFT-inspired ownership, marketplace mechanics and blockchain progression.
-
-**Registro de Bebê Blockchain**  
-Solidity smart contract prototype for immutable birth record registration and public blockchain verification.
-
----
 
 ## 📫 Contact
 

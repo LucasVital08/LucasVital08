@@ -33,6 +33,6 @@ Meu diferencial é unir **Direito + Produto + Blockchain** para criar soluções
 ## 📫 Contact
 
 - GitHub: [github.com/LucasVital08](https://github.com/LucasVital08)
-- LinkedIn: add your LinkedIn link here
+- LinkedIn: linkedin.com/in/lucas-monteiro-210a19174
 - Email: lucasmonteiroadvocacia@gmail.com
 - Telefone: +55 (81) 9 9112-9681

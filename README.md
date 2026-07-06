@@ -1,30 +1,56 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Lawyer+%2B+Web3+Builder;Smart+Contracts+%E2%80%A2+LegalTech+%E2%80%A2+Stellar;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+AI+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Lawyer+%2B+Web3+Builder;Smart+Contracts+%E2%80%A2+LegalTech+%E2%80%A2+Blockchain+Payments;Ethereum+%E2%80%A2+Stellar+%E2%80%A2+Bitcoin;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+AI+Products" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Lucas Vital 👋
 
-| 🇺🇸 English | 🇧🇷 Português |
-|---|---|
-| **Lawyer + Web3 Builder** focused on building real products with smart contracts, legaltech, blockchain payments and AI-powered applications. | **Advogado + Web3 Builder** focado em construir produtos reais com smart contracts, legaltech, pagamentos blockchain e aplicações com IA. |
-| I connect **law, product thinking and blockchain technology** to create practical Web3 solutions for real-world problems. | Eu conecto **Direito, visão de produto e tecnologia blockchain** para criar soluções Web3 aplicáveis a problemas reais. |
+**Lawyer + Web3 Builder** focused on building real products with **smart contracts, legaltech, blockchain payments and AI-powered applications**.
+
+I connect **law, product thinking and blockchain technology** to create practical Web3 solutions for real-world problems.
+
+### 🇧🇷 Sobre mim
+
+**Advogado + Web3 Builder** focado em construir produtos reais com **smart contracts, legaltech, pagamentos blockchain e aplicações com IA**.
+
+Eu conecto **Direito, visão de produto e tecnologia blockchain** para criar soluções Web3 aplicáveis a problemas reais.
 
 ---
 
-## 🚀 Focus / Foco
+## 🚀 Focus
 
-| 🇺🇸 Focus | 🇧🇷 Foco |
-|---|---|
-| Smart contracts for agreements, escrow and verifiable records | Smart contracts para contratos, escrow e registros verificáveis |
-| LegalTech products for digital contracts and milestone-based payments | Produtos LegalTech para contratos digitais e pagamentos por marcos |
-| Blockchain payment rails using Stellar, Ethereum and Web3 infrastructure | Infraestrutura de pagamentos blockchain usando Stellar, Ethereum e Web3 |
-| AI-assisted MVPs for faster product validation and real market testing | MVPs com apoio de IA para validação rápida de produtos e testes reais de mercado |
+**EN**  
+Smart contracts, escrow systems, digital agreements, blockchain payment rails, legaltech products and AI-assisted MVPs.
+
+**PT-BR**  
+Smart contracts, sistemas de escrow, contratos digitais, infraestrutura de pagamentos blockchain, legaltechs e MVPs com apoio de IA.
+
+---
+
+## 🛠 Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,solidity,rust,git,github,vercel,supabase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Soroban-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/sCrypt-111111?style=for-the-badge" />
+</p>
 
 ```ts
 const lucasVital = {
   role: "Lawyer + Web3 Builder",
 
-  focus: ["Smart Contracts", "LegalTech", "Escrow", "Blockchain Payments", "AI Products"],
+  focus: [
+    "Smart Contracts",
+    "LegalTech",
+    "Escrow Systems",
+    "Blockchain Payments",
+    "AI-powered Products",
+  ],
 
   blockchain: {
     ethereum: ["Solidity", "EVM", "Smart Contracts"],
@@ -46,3 +72,35 @@ const lucasVital = {
 
   lookingFor: ["Web3 Developer", "Frontend Web3", "Junior Solidity", "LegalTech Product"],
 };
+```
+
+---
+
+## 📌 Featured Projects
+
+**ContractEase**  
+Web3 legaltech platform for milestone-based agreements using escrow smart contracts, digital contract workflows and AI-assisted dispute support.
+
+**StellarGlobalRails**  
+Modular Web3 infrastructure for global payments, digital contracts, invoices and verifiable workflows on Stellar.
+
+**SocialPay**  
+Web3 social payments app for sending, requesting and tracking digital payments through a simple user experience.
+
+**Oddoreven**  
+Web3 game prototype exploring wallet connection, blockchain interactions and decentralized gameplay.
+
+**RealFootbolweb3**  
+Web3 football game prototype with NFT-inspired ownership, marketplace mechanics and blockchain progression.
+
+**Registro de Bebê Blockchain**  
+Solidity smart contract prototype for immutable birth record registration and public blockchain verification.
+
+---
+
+## 📫 Contact
+
+- GitHub: [github.com/LucasVital08](https://github.com/LucasVital08)
+- LinkedIn: [linkedin.com/in/lucas-monteiro-210a19174](https://www.linkedin.com/in/lucas-monteiro-210a19174)
+- Portfolio: [contractease.vercel.app](https://contractease.vercel.app/)
+- Email: [lucasmonteiroadvocacia@gmail.com](mailto:lucasmonteiroadvocacia@gmail.com)
